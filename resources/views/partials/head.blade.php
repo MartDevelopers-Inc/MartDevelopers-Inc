@@ -16,11 +16,11 @@
 <link rel="icon" href="assets/img/favicon.png">
 <title>MartDevelopers Inc - Where Innovation Meets Experience</title>
 <!--Stylesheet-->
-<link href="assets/css/bootstrap.css" rel="stylesheet">
-<link href="assets/css/menu.css" rel="stylesheet">
-<link href="assets/css/font-awesome.css" rel="stylesheet">
-<link href="assets/css/animate.css" rel="stylesheet">
-<link href="style.css" rel="stylesheet"> 
+<link href="{{ url('assets/css/bootstrap.css') }}" rel="stylesheet">
+<link href="{{ url('assets/css/menu.css') }}" rel="stylesheet">
+<link href="{{ url('assets/css/font-awesome.css') }}" rel="stylesheet">
+<link href="{{ url('assets/css/animate.css') }}}" rel="stylesheet">
+<link href="{{ url('style.css') }}" rel="stylesheet"> 
 <link href='https://fonts.googleapis.com/css?family=Lato:300,400,700,900,300italic,400italic,700italic,900italic' rel='stylesheet' type='text/css'>
 <!-- Global site tag (gtag.js) - Google Analytics -->
 <script async src="https://www.googletagmanager.com/gtag/js?id=UA-144032797-1"></script>
@@ -30,6 +30,8 @@
   gtag('js', new Date());
 
   gtag('config', 'UA-144032797-1');
+  gtag('set', {'user_id': 'USER_ID'}); 
+  ga('set', 'userId', 'USER_ID');
 </script>
 
 </head>
