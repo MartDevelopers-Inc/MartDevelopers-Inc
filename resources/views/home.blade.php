@@ -1,22 +1,4 @@
-<!DOCTYPE html>
-<html lang="en">
-
-<head>
-<meta charset="utf-8">
-<meta name="viewport" content="width=device-width, initial-scale=1">
-<meta name="description" content="">
-<meta name="author" content="">
-<link rel="icon" href="assets/img/favicon.png">
-<title>MartDevelopers Inc - Where Innovation Meets Experience</title>
-<!--Stylesheet-->
-<link href="assets/css/bootstrap.css" rel="stylesheet">
-<link href="assets/css/menu.css" rel="stylesheet">
-<link href="assets/css/font-awesome.css" rel="stylesheet">
-<link href="assets/css/animate.css" rel="stylesheet">
-<link href="style.css" rel="stylesheet"> 
-<link href='https://fonts.googleapis.com/css?family=Lato:300,400,700,900,300italic,400italic,700italic,900italic' rel='stylesheet' type='text/css'>
-
-</head>
+@include('partials.head')
 <body>
 <div class="page-loader">
 	<img src="assets/img/loader.gif" alt="">
