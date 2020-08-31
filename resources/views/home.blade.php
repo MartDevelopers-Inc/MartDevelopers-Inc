@@ -10,10 +10,10 @@
 ================================================== -->
 <div id="large-header" class="large-header">
 	<canvas id="demo-canvas"></canvas>
-    <h1 class="main-title">Mart<span class="thin wow pulse" data-wow-duration="1.8s" data-wow-delay="0.5s" data-wow-iteration="3"> Developers</span><br/>
+   <!-- <h1 class="main-title">Mart<span class="thin wow pulse" data-wow-duration="1.8s" data-wow-delay="0.5s" data-wow-iteration="3"> Developers</span><br/>
     <span class="smallh wow zoomIn">We deliver high quality software solutions in a faster, simpler and more cost-efficient way</span><br/>
 	<button type="button" class="btn btn-default wow fadeInLeft">Where Innovation</button>
-	<button type="button" class="btn btn-primary wow fadeInRight">Meets Experience</button>
+	<button type="button" class="btn btn-primary wow fadeInRight">Meets Experience</button>-->
 	</h1>
 </div>
 <!-- Features
