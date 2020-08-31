@@ -20,11 +20,11 @@
 ================================================== -->
 <section class="page-wrapper gray">
 <div class="container">
-	<h2 class="title">S</h2>
+	<h2 class="title">Our Expertise</h2>
 	<div class="row">
 		<div class="col-md-12 text-center">
 			<p class="lead">
-				 Cayman is the most flexible and complete theme.<br/> Its modern and fully responsive design best fits into current web trends.
+				We deliver end-to-end integrated solutions in design, development and customization.
 			</p>
 		</div>
 	</div>
@@ -32,22 +32,22 @@
 		<div class="col-md-4 feature wow zoomIn" data-wow-duration="0.8s" data-wow-delay="0.1s">
 			<div class="octa">
 			</div>
-			<i class="fa fa-user"></i>
+			<i class="fas fa-hands-helping"></i>
 			<div class="feature-content">
-				<h3>Modern</h3>
+				<h3>Rescue Codings</h3>
 				<p>
-					 The most flexible and complete theme. A theme that is optimized for search engines, endless options. And if you get stuck, Cayman offers dedicated customer support.
+					Left stranded with a bad product that doesn’t work? We can pick up the pieces and get you up and running in no time.
 				</p>
 			</div>
 		</div>
 		<div class="col-md-4 feature wow zoomIn" data-wow-duration="0.8s" data-wow-delay="0.4s">
 			<div class="octa">
 			</div>
-			<i class="fa fa-flash"></i>
+			<i class="fas fa-qrcode"></i>
 			<div class="feature-content">
-				<h3>Creative</h3>
+				<h3>Creative UI/UX Design</h3>
 				<p>
-					 Choose from multiple unique designs Cayman offers. You won't look for a new theme any time soon. User-friendly grid, based on the super popular Bootstrap.
+				Get the most appealing User Interface design for your web-app that provides an overwhelmingly refreshing and friendly experience for your customers.
 				</p>
 			</div>
 		</div>
@@ -56,12 +56,49 @@
 			</div>
 			<i class="fa fa-microphone"></i>
 			<div class="feature-content">
-				<h3>Responsive</h3>
+				<h3>Extensive Documentations And Client Support</h3>
 				<p>
-					 Wide range of out of the box solutions. You can actually build any kind of website with Cayman. Personalize your site without coding expertise or design skills.
+					We have covered each & everything in our Documentations including Videos & Screenshots.
 				</p>
 			</div>
 		</div>
+
+	</div>
+	<div class="row">
+		<div class="col-md-4 feature wow zoomIn" data-wow-duration="0.8s" data-wow-delay="0.1s">
+			<div class="octa">
+			</div>
+			<i class="fas fa-mobile"></i>
+			<div class="feature-content">
+				<h3>Massively Customized Web Apps</h3>
+				<p>
+					We finnesse your web apps exactly the way your business works, we migrate your legacy back-end or upgrade existing front-end functionality.
+				</p>
+			</div>
+		</div>
+		<div class="col-md-4 feature wow zoomIn" data-wow-duration="0.8s" data-wow-delay="0.4s">
+			<div class="octa">
+			</div>
+			<i class="fas fa-paper-plane"></i>
+			<div class="feature-content">
+				<h3>We Build a Minimum Viable Products</h3>
+				<p>
+					We always consider the bigger picture while scoping the minimum requirements for your product and build prototypes blazingly fast to reduce your time to market.
+				</p>
+			</div>
+		</div>
+		<div class="col-md-4 feature wow zoomIn" data-wow-duration="0.8s" data-wow-delay="0.7s">
+			<div class="octa">
+			</div>
+			<i class="fa fa-globe"></i>
+			<div class="feature-content">
+				<h3>Web Development</h3>
+				<p>
+					Our battle tested team of web developers use rapid development methodologies & incorporated frameworks to get the best competitive edge for your business.
+				</p>
+			</div>
+		</div>
+		
 	</div>
 </div>
 </section>
