@@ -13,7 +13,7 @@
 					<span class="icon-bar"></span>
 					<span class="icon-bar"></span>
 					</button>
-					<a class="navbar-brand large" href="{{ url('/') }}"><img src="{{ url('assets/img/logo.png') }}" alt="MartDevelopers"></a>
+					<a class="navbar-brand large" href="{{ url('/') }}"><img src="{{ url('assets/img/MartDevelopers-Website-logo.png') }}" alt="MartDevelopers"></a>
 				</div>
 				<!-- Collect the nav links, forms, and other content for toggling -->
 				<div class="collapse navbar-collapse">
