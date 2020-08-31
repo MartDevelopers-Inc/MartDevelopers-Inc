@@ -20,7 +20,7 @@
 ================================================== -->
 <section class="page-wrapper gray">
 <div class="container">
-	<h2 class="title">See it in action</h2>
+	<h2 class="title">S</h2>
 	<div class="row">
 		<div class="col-md-12 text-center">
 			<p class="lead">
