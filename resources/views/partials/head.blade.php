@@ -14,9 +14,9 @@
 <meta name="author" content="MartDevelopers Inc, Martin Mbithi, MartGFX">
 
 <title>MartDevelopers Inc - Where Innovation Meets Experience</title>
-<link rel="apple-touch-icon" sizes="180x180" href="{{ url('favicon/apple-touch-icon.png') }}">
-<link rel="icon" type="image/png" sizes="32x32" href="{{ url('favicon/apple-touch-icon.png') }}">
-<link rel="icon" type="image/png" sizes="16x16" href="{{ url('favicon/favicon-16x16.png') }}">
+<link rel="apple-touch-icon" sizes="180x180" href="{{ url('favicons/apple-touch-icon.png') }}">
+<link rel="icon" type="image/png" sizes="32x32" href="{{ url('favicons/android-chrome-512x512.png') }}">
+<link rel="icon" type="image/png" sizes="16x16" href="{{ url('favicons/favicon-16x16.png') }}">
 <link rel="manifest" href="{{ url('favicon/site.webmanifest') }}">
 <!--Stylesheet-->
 <link href="{{ url('assets/css/bootstrap.css') }}" rel="stylesheet">
