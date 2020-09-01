@@ -79,33 +79,30 @@
 			</p>
 			<section class="split customers">
 				<div class="col-md-4 col-sm-4 accentbgcolor wow slideInLeft" data-wow-duration="0.8s" data-wow-delay="0.2s">
-					<img src="assets/img/demo/businessavatar1.jpg" alt="">
+					<img src="assets/img/clients/" alt="">
 					<p>
 						<em>"Nam liber tempor cum soluta nobis eleifend option congue nihil imperdiet doming id quod mazim placerat facer possim assum."</em>
 					</p>
 					<p>
-						<strong>Rachel Knight</strong><br>
-						PEPSI COKE
+						<strong>DevLan Inc</strong><br>
 					</p>
 				</div>
 				<div class="col-md-4 col-sm-4 whitebgcolor wow zoomIn" data-wow-duration="0.8s" data-wow-delay="0.0s">
-					<img src="assets/img/demo/businessavatar3.jpg" alt="">
+					<img src="assets/img/clients/" alt="">
 					<p>
 						<em>"Nam liber tempor cum soluta nobis eleifend option congue nihil imperdiet doming id quod mazim placerat facer possim assum."</em>
 					</p>
 					<p>
-						<strong>Teresa Harmon</strong><br>
-						GENERAL MOTORS
+						<strong>Nucleus SAASERP Group</strong><br>
 					</p>
 				</div>
 				<div class="col-md-4 col-sm-4 darkbgcolor wow slideInRight" data-wow-duration="0.8s" data-wow-delay="0.2s">
-					<img src="assets/img/demo/businessavatar2.jpg" alt="">
+					<img src="assets/img/clients/" alt="">
 					<p>
 						<em>"Nam liber tempor cum soluta nobis eleifend option congue nihil imperdiet doming id quod mazim placerat facer possim assum."</em>
 					</p>
 					<p>
-						<strong>Rosa Ingram</strong><br>
-						LACOSTE
+						<strong>Lam Water Corp</strong><br>
 					</p>
 				</div>
 			</section>
