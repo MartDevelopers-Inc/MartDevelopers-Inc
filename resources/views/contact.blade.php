@@ -5,7 +5,7 @@
 </div>
 
 @include('partials.header')
-<section class="pagetitle parallax parallax-image" style="background-image:url(assets/img/demo/count.jpg);">
+<section class="pagetitle parallax parallax-image" style="background-image:url(assets/img/header.jpg);">
 <div class="wrapsection">
 	<div class="overlay" style="background:#303543;opacity:0.6;">
 	</div>
@@ -73,7 +73,7 @@
 				Your message has been sent. Thank you!
 			</div>
 		</div>
-		<form method="post" action="" id="contactform">
+		<form method="post" action="mailto:martdevelopers254@gmail.com" id="contactform">
 			<input name="name" type="text" class="col-md-12" placeholder="Your Name *">
 			<input name="email" type="email" class="col-md-12" placeholder="E-mail address *">
 			<textarea name="comment" class="col-md-12" placeholder="Message *"></textarea>
