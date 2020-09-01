@@ -34,7 +34,7 @@
 		<div class="col-md-4 feature wow zoomIn" data-wow-duration="0.8s" data-wow-delay="0.1s">
 			<div class="octa blue">
 			</div>
-			<a href="http://www.themepush.com/demo/cayman/#"><i class="fa fa-facebook"></i></a>
+			<a href="https://www.facebook.com/martin.mbithi.73"><i class="fa fa-facebook"></i></a>
 			<div class="feature-content">
 				<h3>Like us on Facebook</h3>
 				
@@ -43,7 +43,7 @@
 		<div class="col-md-4 feature wow zoomIn" data-wow-duration="0.8s" data-wow-delay="0.4s">
 			<div class="octa bluelight">
 			</div>
-			<a href="http://www.themepush.com/demo/cayman/#"><i class="fa fa-twitter"></i></a>
+			<a href="https://twitter.com/martinezmbithi"><i class="fa fa-twitter"></i></a>
 			<div class="feature-content">
 				<h3>Follow us on Twitter</h3>
 				
@@ -52,10 +52,9 @@
 		<div class="col-md-4 feature wow zoomIn" data-wow-duration="0.8s" data-wow-delay="0.7s">
 			<div class="octa red">
 			</div>
-			<a href="http://www.themepush.com/demo/cayman/#"><i class="fa fa-google"></i></a>
+			<a href="tel:+25437229776"><i class="fa fa-phone"></i></a>
 			<div class="feature-content">
-				<h3>Google +1 Us</h3>
-				
+				<h3>Give Us A Call</h3>
 			</div>
 		</div>
 	</div>
