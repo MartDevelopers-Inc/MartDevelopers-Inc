@@ -79,30 +79,70 @@
 			</p>
 			<section class="split customers">
 				<div class="col-md-4 col-sm-4 accentbgcolor wow slideInLeft" data-wow-duration="0.8s" data-wow-delay="0.2s">
-					<img src="assets/img/clients/" alt="">
 					<p>
-						<em>"Nam liber tempor cum soluta nobis eleifend option congue nihil imperdiet doming id quod mazim placerat facer possim assum."</em>
+						<em>"
+						 	We needed a platform for our members to show case their opensource projects, we were connected to MartDevelopers Inc and they managed to do a good job.
+						"</em>
 					</p>
 					<p>
-						<strong>DevLan Inc</strong><br>
+						<strong>DevLan Labs</strong><br>
 					</p>
 				</div>
 				<div class="col-md-4 col-sm-4 whitebgcolor wow zoomIn" data-wow-duration="0.8s" data-wow-delay="0.0s">
-					<img src="assets/img/clients/" alt="">
 					<p>
-						<em>"Nam liber tempor cum soluta nobis eleifend option congue nihil imperdiet doming id quod mazim placerat facer possim assum."</em>
+						<em>"
+							We needed a light weight Cloud Based Software As A Platform Enterprise System for our corporation, we were connected to MartDevelopers Inc and they managed to do a good job. Big up Team MartDevelopers Inc.
+						"</em>
 					</p>
 					<p>
-						<strong>Nucleus SAASERP Group</strong><br>
+						<strong>Nucleus-SAAS ERP Group</strong><br>
 					</p>
 				</div>
 				<div class="col-md-4 col-sm-4 darkbgcolor wow slideInRight" data-wow-duration="0.8s" data-wow-delay="0.2s">
-					<img src="assets/img/clients/" alt="">
 					<p>
-						<em>"Nam liber tempor cum soluta nobis eleifend option congue nihil imperdiet doming id quod mazim placerat facer possim assum."</em>
+						<em>"
+							Transparency and monitoring in water dispensing firms is a hell of hard job but thanks to MartDevelopers Inc for taking 
+							that pain from us and turned it to a Information Management System. Big thanks MartDevelopers Inc.
+						"</em>
 					</p>
 					<p>
 						<strong>Lam Water Corp</strong><br>
+					</p>
+				</div>
+			</section>
+			<section class="split customers">
+				<div class="col-md-4 col-sm-4 darkbgcolor wow slideInRight" data-wow-duration="0.8s" data-wow-delay="0.2s">
+					<p>
+						<em>"
+							MartDevelopers Inc, did a lot of excellent work by transforming our manual systems to an automated hospital management system.
+						"</em>
+					</p>
+					<p>
+						<strong>Orion Health Care Corporation</strong><br>
+					</p>
+				</div>
+				
+				<div class="col-md-4 col-sm-4 accentbgcolor wow slideInRight" data-wow-duration="0.8s" data-wow-delay="0.2s">
+					<p>
+						<em>"
+							Medical appointments records are difficult to manage , but big thanks to MartDevelopers Inc for intergrating an 
+							automated Appointments Management Solution.
+						"</em>
+					</p>
+					<p>
+						<strong>AMS Healthcare Corporation</strong><br>
+					</p>
+				</div>
+
+				<div class="col-md-4 col-sm-4 whitebgcolor wow slideInRight" data-wow-duration="0.8s" data-wow-delay="0.2s">
+					<p>
+						<em>"
+							Higher Education Instutions need to migrate from manual based systems to automated information management systems 
+							and thanks to MartDevelopers Inc, for implementing a University ERP.
+						"</em>
+					</p>
+					<p>
+						<strong>UniSys</strong><br>
 					</p>
 				</div>
 			</section>
