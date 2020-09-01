@@ -36,7 +36,10 @@
 					<div class="feature-content">
 						<h3><i class="fas fa-user-check"></i>Why Choose Us</h3>
 						<p>
-							The most flexible and complete theme. A theme that is optimized for search engines, endless options. And if you get stuck, Cayman offers support.
+							We are a team of freelancers offering solutions across a broad spectrum of IT services. 
+							Our service execution apprroach is client-oriented. 
+							All our projects are done under a contract to ensure Credibility and Reliability. 
+							Be sure your project will be executed proffessionaly.
 						</p>
 					</div>
 				</div>
@@ -44,7 +47,12 @@
 					<div class="feature-content">
 						<h3><i class="fa fa-rocket"></i>Our Mission</h3>
 						<p>
-							Choose from multiple unique designs Cayman offers. You won't look for a new theme any time soon. User-friendly grid, based on the super popular Bootstrap.
+							Mart Developers main aim is to change the way businesses, 
+							organisations and institutions operate,
+							from automating daily routines (Accounting, sales, Record Keeping etc) 
+							to establishing online brand reputation. 
+							We are here to transform your industry. 
+							From the way you operate to connecting you to potential clients on the web
 						</p>
 					</div>
 				</div>
@@ -52,7 +60,10 @@
 					<div class="feature-content">
 						<h3><i class="fa fa-cogs"></i>What We Do</h3>
 						<p>
-							Wide range of out of the box solutions. You can actually build any kind of website with Cayman. Personalize your site without design skills.
+							MART DEVELOPERS INC , DEDICATED AND COMPETENT INDIVIDUALS WHO YOU'LL BE WORKING WITH. 
+							WE WORK ROUND THE CLOCK AND RESEARCH VIGOROUSLY TO ENSURE WE ARE ALWAYS UP TO DATE WITH TECHNOLOGICAL 
+							ADVANCEMENTS. WE DO THAT BECAUSE WE UNDERSTAND THAT TECHNOLOGY 
+							IS DYNAMIC AND IT IS OUR MANDATE TO PROVIDE RELEVANT SOLUTIONS TO OUR CLIENTS. 
 						</p>
 					</div>
 				</div>
