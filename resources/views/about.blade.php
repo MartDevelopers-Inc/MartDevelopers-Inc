@@ -36,9 +36,9 @@
 					<div class="feature-content">
 						<h3><i class="fas fa-user-check"></i>Why Choose Us</h3>
 						<p>
-							We are a team of freelancers offering solutions across a broad spectrum of IT services. 
-							Our service execution apprroach is client-oriented. 
-							All our projects are done under a contract to ensure Credibility and Reliability. 
+							We are a team of freelancers offering solutions across a broad spectrum of IT services.
+							Our service execution apprroach is client-oriented.
+							All our projects are done under a contract to ensure Credibility and Reliability.
 							Be sure your project will be executed proffessionaly.
 						</p>
 					</div>
@@ -47,11 +47,11 @@
 					<div class="feature-content">
 						<h3><i class="fa fa-rocket"></i>Our Mission</h3>
 						<p>
-							Mart Developers main aim is to change the way businesses, 
+							Mart Developers main aim is to change the way businesses,
 							organisations and institutions operate,
-							from automating daily routines (Accounting, sales, Record Keeping etc) 
-							to establishing online brand reputation. 
-							We are here to transform your industry. 
+							from automating daily routines (Accounting, sales, Record Keeping etc)
+							to establishing online brand reputation.
+							We are here to transform your industry.
 							From the way you operate to connecting you to potential clients on the web
 						</p>
 					</div>
@@ -60,10 +60,10 @@
 					<div class="feature-content">
 						<h3><i class="fa fa-cogs"></i>What We Do</h3>
 						<p>
-							MART DEVELOPERS INC , DEDICATED AND COMPETENT INDIVIDUALS WHO YOU'LL BE WORKING WITH. 
-							WE WORK ROUND THE CLOCK AND RESEARCH VIGOROUSLY TO ENSURE WE ARE ALWAYS UP TO DATE WITH TECHNOLOGICAL 
-							ADVANCEMENTS. WE DO THAT BECAUSE WE UNDERSTAND THAT TECHNOLOGY 
-							IS DYNAMIC AND IT IS OUR MANDATE TO PROVIDE RELEVANT SOLUTIONS TO OUR CLIENTS. 
+							MART DEVELOPERS INC , DEDICATED AND COMPETENT INDIVIDUALS WHO YOU'LL BE WORKING WITH.
+							WE WORK ROUND THE CLOCK AND RESEARCH VIGOROUSLY TO ENSURE WE ARE ALWAYS UP TO DATE WITH TECHNOLOGICAL
+							ADVANCEMENTS. WE DO THAT BECAUSE WE UNDERSTAND THAT TECHNOLOGY
+							IS DYNAMIC AND IT IS OUR MANDATE TO PROVIDE RELEVANT SOLUTIONS TO OUR CLIENTS.
 						</p>
 					</div>
 				</div>
@@ -71,36 +71,44 @@
 		</div>
 	</section>
 
-	<section class="split customers">
-		<div class="col-md-4 col-sm-4 accentbgcolor wow slideInLeft" data-wow-duration="0.8s" data-wow-delay="0.2s">
-			<img src="assets/img/demo/businessavatar1.jpg" alt="">
-			<p>
-				<em>"Nam liber tempor cum soluta nobis eleifend option congue nihil imperdiet doming id quod mazim placerat facer possim assum."</em>
+	<section class="page-wrapper gray wow zoomIn">
+		<div class="container">
+			<h2 class="title">Testimonials</h2>
+			<p class="tagline">
+				What Our Happy Clients Say
 			</p>
-			<p>
-				<strong>Rachel Knight</strong><br>
-				PEPSI COKE
-			</p>
-		</div>
-		<div class="col-md-4 col-sm-4 whitebgcolor wow zoomIn" data-wow-duration="0.8s" data-wow-delay="0.0s">
-			<img src="assets/img/demo/businessavatar3.jpg" alt="">
-			<p>
-				<em>"Nam liber tempor cum soluta nobis eleifend option congue nihil imperdiet doming id quod mazim placerat facer possim assum."</em>
-			</p>
-			<p>
-				<strong>Teresa Harmon</strong><br>
-				GENERAL MOTORS
-			</p>
-		</div>
-		<div class="col-md-4 col-sm-4 darkbgcolor wow slideInRight" data-wow-duration="0.8s" data-wow-delay="0.2s">
-			<img src="assets/img/demo/businessavatar2.jpg" alt="">
-			<p>
-				<em>"Nam liber tempor cum soluta nobis eleifend option congue nihil imperdiet doming id quod mazim placerat facer possim assum."</em>
-			</p>
-			<p>
-				<strong>Rosa Ingram</strong><br>
-				LACOSTE
-			</p>
+			<section class="split customers">
+				<div class="col-md-4 col-sm-4 accentbgcolor wow slideInLeft" data-wow-duration="0.8s" data-wow-delay="0.2s">
+					<img src="assets/img/demo/businessavatar1.jpg" alt="">
+					<p>
+						<em>"Nam liber tempor cum soluta nobis eleifend option congue nihil imperdiet doming id quod mazim placerat facer possim assum."</em>
+					</p>
+					<p>
+						<strong>Rachel Knight</strong><br>
+						PEPSI COKE
+					</p>
+				</div>
+				<div class="col-md-4 col-sm-4 whitebgcolor wow zoomIn" data-wow-duration="0.8s" data-wow-delay="0.0s">
+					<img src="assets/img/demo/businessavatar3.jpg" alt="">
+					<p>
+						<em>"Nam liber tempor cum soluta nobis eleifend option congue nihil imperdiet doming id quod mazim placerat facer possim assum."</em>
+					</p>
+					<p>
+						<strong>Teresa Harmon</strong><br>
+						GENERAL MOTORS
+					</p>
+				</div>
+				<div class="col-md-4 col-sm-4 darkbgcolor wow slideInRight" data-wow-duration="0.8s" data-wow-delay="0.2s">
+					<img src="assets/img/demo/businessavatar2.jpg" alt="">
+					<p>
+						<em>"Nam liber tempor cum soluta nobis eleifend option congue nihil imperdiet doming id quod mazim placerat facer possim assum."</em>
+					</p>
+					<p>
+						<strong>Rosa Ingram</strong><br>
+						LACOSTE
+					</p>
+				</div>
+			</section>
 		</div>
 	</section>
 	<!-- Footer-->
