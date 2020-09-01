@@ -22,7 +22,7 @@
 <link href="{{ url('assets/css/bootstrap.css') }}" rel="stylesheet">
 <link href="{{ url('assets/css/menu.css') }}" rel="stylesheet">
 <link href="{{ url('assets/css/font-awesome.css') }}" rel="stylesheet">
-<link href="{{ url('assets/css/animate.css') }}}" rel="stylesheet">
+<link href="{{ url('assets/css/animate.css') }}" rel="stylesheet">
 <link href="{{ url('style.css') }}" rel="stylesheet"> 
 <link href='https://fonts.googleapis.com/css?family=Lato:300,400,700,900,300italic,400italic,700italic,900italic' rel='stylesheet' type='text/css'>
 <!-- Global site tag (gtag.js) - Google Analytics -->
