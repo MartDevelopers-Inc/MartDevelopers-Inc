@@ -24,17 +24,18 @@
 							<a href="{{ url('/') }}"><i class="fa fa-bolt"></i><span class="link-item">Home</span></a>
 						</li>
 						<li>
-							<a href="https://gfx.martdev.info/martgfx_abou"><span class="link-item">Services</span></a>
+							<a href="https://gfx.martdev.info/about"><span class="link-item">About</span></a>
+						</li>
+						
+						<li>
+							<a href="https://gfx.martdev.info/services"><span class="link-item">Services</span></a>
 						</li>
 						<li>
 							<a href="https://github.com/MartDevelopers-Inc" target="_blank"><span class="link-item">Solutions</span></a>
 						</li>
 						<li>
-							<a href="https://gfx.martdev.info/martgfx_gallery"><span class="link-item">About</span></a>
-						</li>
-						<li>
-							<a href="https://gfx.martdev.info/martgfx_contact"><span class="link-item">Contact Us</span></a>
-						</li>
+							<a href="https://gfx.martdev.info/contact"><span class="link-item">Contact Us</span></a>
+						</li>						
 					</ul>
 					<!-- end .nav .navbar-nav -->
 				</div>
